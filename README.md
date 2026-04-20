@@ -1,4 +1,4 @@
-# Manimaran Balaji - Embedded Hardware Engineer
+# Manimaran B - Embedded Hardware Engineer
 
 ## Connect
 
